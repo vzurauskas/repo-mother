@@ -1,15 +1,14 @@
-# Java Project Template Initializer
+# Java Project Repository Mother
 
 An AI-driven Cursor rule that initializes new Java/Maven projects by copying configuration files and Cursor rules from an existing local template repository.
 
 ## Quick Start
 
-1. Create a new empty repository on GitHub
+1. Create a new repository from this one (use GitHub repository template feature)
 2. Clone it locally
-3. Copy `.cursor/rules/000_project_initializer.mdc` into the cloned repo
-4. Open the repo in Cursor
-5. Say: `init from template /path/to/your/template-repo`
-6. Answer the prompts for groupId, artifactId, and package name
+3. Open the repo in Cursor
+4. Say: `init from template /path/to/your/template-repo`
+5. Answer the prompts for groupId, artifactId, and package name
 
 ## What Gets Copied
 
